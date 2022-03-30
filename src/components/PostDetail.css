@@ -1,0 +1,9 @@
+.post-detail-container{
+    width: 60vw;
+}
+
+@media(max-width: 768px){
+    .post-detail-container{
+        width: 99vw;
+    }
+}
